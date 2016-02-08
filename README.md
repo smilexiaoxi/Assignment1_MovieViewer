@@ -1,5 +1,3 @@
-# Assignment1_MovieViewer
-
 # Assignment - *MovieViewer*
 
 **MovieViewer** is a Movie Viewer application for iOS.
