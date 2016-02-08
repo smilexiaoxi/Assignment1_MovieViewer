@@ -27,6 +27,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/Ux67tYm.gif' title='MovieViewer'>
+<img src='http://i.imgur.com/QfdmAg3.gif' title='MovieViewer_0'>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
